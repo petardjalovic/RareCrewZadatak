@@ -1,0 +1,19 @@
+<table cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Zaposleni</th>
+      <th>Ukupno vreme</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let entry of aggregatedEntries$ | async" [ngClass]="{'below-threshold': entry.totalMinutes < 6000}">
+      <td>{{ entry.employeeName }}</td>
+      <td>{{ formatDuration(entry.totalMinutes) }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Debug prikaz JSON-a -->
+<!--<pre>{{ aggregatedEntries$ | async | json }}</pre>-->
+
+<!-- Pie chart prikaz -->

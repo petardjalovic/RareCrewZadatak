@@ -1,0 +1,6 @@
+
+/* table.component.css */
+.below-threshold {
+  background-color: #ffcccc; /* Svetlo crvena pozadina */
+  color: #ff0000; /* Crveni tekst */
+}

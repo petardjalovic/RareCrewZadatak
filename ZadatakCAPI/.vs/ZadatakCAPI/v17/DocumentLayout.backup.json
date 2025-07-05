@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Petar\\Desktop\\git\\zadatak\\ZadatakCAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE72CE5C-E1B7-45B0-8B2B-04BD2BC516DC}|ZadatakCAPI\\ZadatakCAPI.csproj|c:\\users\\petar\\desktop\\git\\zadatak\\zadatakcapi\\zadatakcapi\\entities\\empolyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE72CE5C-E1B7-45B0-8B2B-04BD2BC516DC}|ZadatakCAPI\\ZadatakCAPI.csproj|solutionrelative:zadatakcapi\\entities\\empolyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE72CE5C-E1B7-45B0-8B2B-04BD2BC516DC}|ZadatakCAPI\\ZadatakCAPI.csproj|c:\\users\\petar\\desktop\\git\\zadatak\\zadatakcapi\\zadatakcapi\\controllers\\emplyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE72CE5C-E1B7-45B0-8B2B-04BD2BC516DC}|ZadatakCAPI\\ZadatakCAPI.csproj|solutionrelative:zadatakcapi\\controllers\\emplyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE72CE5C-E1B7-45B0-8B2B-04BD2BC516DC}|ZadatakCAPI\\ZadatakCAPI.csproj|c:\\users\\petar\\desktop\\git\\zadatak\\zadatakcapi\\zadatakcapi\\dto\\employeesummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE72CE5C-E1B7-45B0-8B2B-04BD2BC516DC}|ZadatakCAPI\\ZadatakCAPI.csproj|solutionrelative:zadatakcapi\\dto\\employeesummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE72CE5C-E1B7-45B0-8B2B-04BD2BC516DC}|ZadatakCAPI\\ZadatakCAPI.csproj|c:\\users\\petar\\desktop\\git\\zadatak\\zadatakcapi\\zadatakcapi\\helpers\\piechartcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE72CE5C-E1B7-45B0-8B2B-04BD2BC516DC}|ZadatakCAPI\\ZadatakCAPI.csproj|solutionrelative:zadatakcapi\\helpers\\piechartcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE72CE5C-E1B7-45B0-8B2B-04BD2BC516DC}|ZadatakCAPI\\ZadatakCAPI.csproj|c:\\users\\petar\\desktop\\git\\zadatak\\zadatakcapi\\zadatakcapi\\helpers\\htmltablebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE72CE5C-E1B7-45B0-8B2B-04BD2BC516DC}|ZadatakCAPI\\ZadatakCAPI.csproj|solutionrelative:zadatakcapi\\helpers\\htmltablebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE72CE5C-E1B7-45B0-8B2B-04BD2BC516DC}|ZadatakCAPI\\ZadatakCAPI.csproj|c:\\users\\petar\\desktop\\git\\zadatak\\zadatakcapi\\zadatakcapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE72CE5C-E1B7-45B0-8B2B-04BD2BC516DC}|ZadatakCAPI\\ZadatakCAPI.csproj|solutionrelative:zadatakcapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE72CE5C-E1B7-45B0-8B2B-04BD2BC516DC}|ZadatakCAPI\\ZadatakCAPI.csproj|c:\\users\\petar\\desktop\\git\\zadatak\\zadatakcapi\\zadatakcapi\\emplyeeservice\\emplyeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE72CE5C-E1B7-45B0-8B2B-04BD2BC516DC}|ZadatakCAPI\\ZadatakCAPI.csproj|solutionrelative:zadatakcapi\\emplyeeservice\\emplyeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE72CE5C-E1B7-45B0-8B2B-04BD2BC516DC}|ZadatakCAPI\\ZadatakCAPI.csproj|c:\\users\\petar\\desktop\\git\\zadatak\\zadatakcapi\\zadatakcapi\\emplyeeservice\\iemplyeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE72CE5C-E1B7-45B0-8B2B-04BD2BC516DC}|ZadatakCAPI\\ZadatakCAPI.csproj|solutionrelative:zadatakcapi\\emplyeeservice\\iemplyeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE72CE5C-E1B7-45B0-8B2B-04BD2BC516DC}|ZadatakCAPI\\ZadatakCAPI.csproj|c:\\users\\petar\\desktop\\git\\zadatak\\zadatakcapi\\zadatakcapi\\zadatakcapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE72CE5C-E1B7-45B0-8B2B-04BD2BC516DC}|ZadatakCAPI\\ZadatakCAPI.csproj|solutionrelative:zadatakcapi\\zadatakcapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE72CE5C-E1B7-45B0-8B2B-04BD2BC516DC}|ZadatakCAPI\\ZadatakCAPI.csproj|c:\\users\\petar\\desktop\\git\\zadatak\\zadatakcapi\\zadatakcapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE72CE5C-E1B7-45B0-8B2B-04BD2BC516DC}|ZadatakCAPI\\ZadatakCAPI.csproj|solutionrelative:zadatakcapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "piechartcreator.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\zadatak\\ZadatakCAPI\\ZadatakCAPI\\helpers\\piechartcreator.cs",
+              "RelativeDocumentMoniker": "ZadatakCAPI\\helpers\\piechartcreator.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\zadatak\\ZadatakCAPI\\ZadatakCAPI\\helpers\\piechartcreator.cs",
+              "RelativeToolTip": "ZadatakCAPI\\helpers\\piechartcreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:45:24.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmplyeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\zadatak\\ZadatakCAPI\\ZadatakCAPI\\EmplyeeService\\IEmplyeeService.cs",
+              "RelativeDocumentMoniker": "ZadatakCAPI\\EmplyeeService\\IEmplyeeService.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\zadatak\\ZadatakCAPI\\ZadatakCAPI\\EmplyeeService\\IEmplyeeService.cs",
+              "RelativeToolTip": "ZadatakCAPI\\EmplyeeService\\IEmplyeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:01:33.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmplyeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\zadatak\\ZadatakCAPI\\ZadatakCAPI\\EmplyeeService\\EmplyeeService.cs",
+              "RelativeDocumentMoniker": "ZadatakCAPI\\EmplyeeService\\EmplyeeService.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\zadatak\\ZadatakCAPI\\ZadatakCAPI\\EmplyeeService\\EmplyeeService.cs",
+              "RelativeToolTip": "ZadatakCAPI\\EmplyeeService\\EmplyeeService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:28:16.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HtmlTableBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\zadatak\\ZadatakCAPI\\ZadatakCAPI\\helpers\\HtmlTableBuilder.cs",
+              "RelativeDocumentMoniker": "ZadatakCAPI\\helpers\\HtmlTableBuilder.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\zadatak\\ZadatakCAPI\\ZadatakCAPI\\helpers\\HtmlTableBuilder.cs",
+              "RelativeToolTip": "ZadatakCAPI\\helpers\\HtmlTableBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:31:11.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmplyeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\zadatak\\ZadatakCAPI\\ZadatakCAPI\\Controllers\\EmplyeeController.cs",
+              "RelativeDocumentMoniker": "ZadatakCAPI\\Controllers\\EmplyeeController.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\zadatak\\ZadatakCAPI\\ZadatakCAPI\\Controllers\\EmplyeeController.cs",
+              "RelativeToolTip": "ZadatakCAPI\\Controllers\\EmplyeeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:39:26.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\zadatak\\ZadatakCAPI\\ZadatakCAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ZadatakCAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\zadatak\\ZadatakCAPI\\ZadatakCAPI\\Program.cs",
+              "RelativeToolTip": "ZadatakCAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:49:00.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeSummary.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\zadatak\\ZadatakCAPI\\ZadatakCAPI\\dto\\EmployeeSummary.cs",
+              "RelativeDocumentMoniker": "ZadatakCAPI\\dto\\EmployeeSummary.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\zadatak\\ZadatakCAPI\\ZadatakCAPI\\dto\\EmployeeSummary.cs",
+              "RelativeToolTip": "ZadatakCAPI\\dto\\EmployeeSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:05:38.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empolyee.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\zadatak\\ZadatakCAPI\\ZadatakCAPI\\entities\\Empolyee.cs",
+              "RelativeDocumentMoniker": "ZadatakCAPI\\entities\\Empolyee.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\zadatak\\ZadatakCAPI\\ZadatakCAPI\\entities\\Empolyee.cs",
+              "RelativeToolTip": "ZadatakCAPI\\entities\\Empolyee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:24:20.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\zadatak\\ZadatakCAPI\\ZadatakCAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ZadatakCAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\zadatak\\ZadatakCAPI\\ZadatakCAPI\\appsettings.json",
+              "RelativeToolTip": "ZadatakCAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T15:06:55.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ZadatakCAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\zadatak\\ZadatakCAPI\\ZadatakCAPI\\ZadatakCAPI.csproj",
+              "RelativeDocumentMoniker": "ZadatakCAPI\\ZadatakCAPI.csproj",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\zadatak\\ZadatakCAPI\\ZadatakCAPI\\ZadatakCAPI.csproj",
+              "RelativeToolTip": "ZadatakCAPI\\ZadatakCAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-03T15:04:34.627Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
