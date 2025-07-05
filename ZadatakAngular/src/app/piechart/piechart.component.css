@@ -1,0 +1,7 @@
+canvas {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: 400px; /* Osigurava dovoljnu visinu za pie chart */
+}
+

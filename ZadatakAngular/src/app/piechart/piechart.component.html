@@ -1,0 +1,9 @@
+<!-- pie-chart.component.html -->
+<div style="max-width: 600px; margin: 20px auto;">
+  <canvas baseChart
+          [data]="pieChartData"
+          [options]="pieChartOptions"
+          [type]="pieChartType"
+          *ngIf="pieChartData.labels && pieChartData.labels.length > 0">
+  </canvas>
+</div>
